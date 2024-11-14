@@ -1,0 +1,9 @@
+Hey developer,
+
+We have seen that your password is too weak and has been leaked in serveral data breaches.
+Your username (developer) also is so common to guess, as a punishment for not following organisation norms.
+We have decided to remove your sudoers permission on the CTF Servers but still you have the permissions for the dev environments to run and test the Web Applications.
+We look forward for you to adhere to organisations password policies, until you remain blacklisted from sudoers.
+
+Happy Hacking,
+Team Lead @ CTF Servers.
